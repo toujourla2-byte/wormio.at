@@ -1,0 +1,6 @@
+name: wormio_server
+description: Minimal authoritative server for worm-like multiplayer (Dart)
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
